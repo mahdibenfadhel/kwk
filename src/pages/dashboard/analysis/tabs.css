@@ -1,0 +1,22 @@
+.mainTab .ant-tabs-nav-list, .mainTab .ant-tabs-tab {
+  flex-grow: 1;
+  place-content: center;
+  background-color: #fff;
+}
+ .proTab .ant-tabs-nav-list, .proTab .ant-tabs-tab {
+   flex-grow: 1;
+   place-content: center;
+   background-color: transparent;
+ }
+.mainTab{
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.13em;
+  text-align: center;
+  align-items: stretch;
+  margin: 15px 0;
+  flex-grow: 1;
+}
